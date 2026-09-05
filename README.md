@@ -11,13 +11,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-111827?style=for-the-badge" alt="AI Engineer" />
   <img src="https://img.shields.io/badge/ML%20Engineer-1F2937?style=for-the-badge" alt="ML Engineer" />
-  <img src="https://img.shields.io/badge/Open%20to%20Remote%20Roles-2563EB?style=for-the-badge" alt="Open to Remote Roles" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/XGBoost-1F4E79?style=flat-square" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/SQL-1F4E79?style=flat-square" alt="SQL" />
   <img src="https://img.shields.io/badge/LangGraph-111111?style=flat-square" alt="LangGraph" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -150,7 +149,7 @@ The goal is to make each project answer a real engineering question with measura
 
 <p>
   <a href="https://github.com/tulideepanshi"><img src="https://img.shields.io/badge/GitHub-tulideepanshi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Mumbai%2C%20India-Remote%20Friendly-2563EB?style=for-the-badge" alt="Mumbai India, Remote Friendly" />
+  <img src="https://img.shields.io/badge/Mumbai%2C%20India-%20Friendly-2563EB?style=for-the-badge" alt="Mumbai India,  Friendly" />
 </p>
 
-I am open to AI Engineer, ML Engineer, and Applied ML opportunities, with a preference for remote roles.
+I am open to AI Engineer, ML Engineer, and Applied ML opportunities.
